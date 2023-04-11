@@ -1,5 +1,5 @@
 # nintendo-games
-nintendo games form 1990 to 2022
+the Super Mario Dataset
 ![image](https://user-images.githubusercontent.com/79028098/231306664-0a3a89ab-26fe-422c-8974-18b9ff5a6ecc.png)
 
 In this project, I decided I wanted to work on something related to some of my interest. To think of a topic, I decided to take a dataset related to Nintendo video games since it was something I loved growing up. I came across a dataset that had some data related to Nintendo games and decided to work on it.
